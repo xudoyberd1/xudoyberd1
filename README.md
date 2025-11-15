@@ -6,7 +6,7 @@
     - Playing vidoe games
     - Reading non-fiction books
     - Playing football
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimboy-252&label=Profile%20views&color=0e75b6&style=flat" alt="rahimboy-252" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ulugbekov7&label=Profile%20views&color=0e75b6&style=flat" alt="ulugbekov7" /> </p>
 <p align="left">
 </p>
 
