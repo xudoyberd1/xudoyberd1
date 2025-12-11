@@ -1,11 +1,14 @@
 <h1>Rembo</h1>
 <h3>Junior developer</h3>
 
-- 🥏 My hobbies:
-    - Learning languages
-    - Playing vidoe games
-    - Reading non-fiction books
-    - Playing football
+
+    👋 Hi, I’m @ulugbekov7
+    👀 I’m interested in Frontend Web Development
+    🌱 I’m currently learning JavaScript
+    💞️ I’m looking to collaborate on ...
+    📫 How to reach me ...
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulugbekov7&label=Profile%20views&color=0e75b6&style=flat" alt="ulugbekov7" /> </p>
 <p align="left">
 </p>
