@@ -1,8 +1,8 @@
-<h1>Bogibekov Xudoyberdi</h1>
+<h1>Rembo</h1>
 <h3>Junior developer</h3>
 
 
-    👋 Hi, I’m @xudoyberd1
+    👋 Hi, I’m @ulugbekov7
     👀 I’m interested in Frontend Web Development
     🌱 I’m currently learning JavaScript
     💞️ I’m looking to collaborate on ...
