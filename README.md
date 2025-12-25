@@ -2,7 +2,7 @@
 <h3>Junior developer</h3>
 
 
-    👋 Hi, I’m @ulugbekov7
+    👋 Hi, I’m @xudoyberd1
     👀 I’m interested in Frontend Web Development
     🌱 I’m currently learning JavaScript
     💞️ I’m looking to collaborate on ...
